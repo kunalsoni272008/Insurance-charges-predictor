@@ -20,9 +20,8 @@
 
 # 🌐 Live Demo
 
-🔗 **Application:** https://YOUR-STREAMLIT-APP.streamlit.app
-
-📂 **GitHub Repository:** https://github.com/YOUR_USERNAME/insurance-charges-predictor
+🔗 **Application:**https://kunalsoni272008-insurance-charges-predictor-app-cgc1ds.streamlit.app/
+📂 **GitHub Repository:**[https://github.com/kunalsoni272008/insurance-charges-predictor](https://github.com/kunalsoni272008/Insurance-charges-predictor)
 
 ---
 
@@ -268,9 +267,10 @@ This project demonstrates practical experience in:
 
 B.Tech CSE (AI & ML)
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/kunalsoni272008)
+- LinkedIn: www.linkedin.com/in/kunal-soni-30718537a
+- Email: kunalsonni272008@gmail.com
+- 
 
 ---
 
